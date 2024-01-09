@@ -1,0 +1,4 @@
+vtiger\Edit.class
+vtiger\Contacts.class
+vtiger\DeleteContact.class
+vtiger\CreateContactWithNumberTest.class
